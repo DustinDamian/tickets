@@ -16,7 +16,7 @@ header('Content-Type: text/html; charset=UTF-8');
           <div class="row">
             <div class="col-sm-12">
               <div class="page-header">
-                <h1 class="animated lightSpeedIn">LinuxStore <small>Dustin Aldana Prueba desde github4</small></h1>
+                <h1 class="animated lightSpeedIn">LinuxStore <small>Dustin Aldana Prueba desde github5</small></h1>
                 <span class="label label-danger">LinuxStore S.A de C.V</span>
                 <p class="pull-right text-primary">
                   <strong>
